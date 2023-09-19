@@ -1,0 +1,57 @@
+body{
+    background-color: beige;
+}
+header{
+    text-align: center;
+    background-color: rgb(228, 218, 205);
+}
+h1{
+    font-family:sans-serif;
+    color: rgb(241, 122, 37);
+}
+h2{
+    font-family: sans-serif;
+    color: rgb(203, 130, 98);
+}
+ul{
+    padding-bottom: 100px;
+}
+p,li{
+    font-family: sans-serif;
+}
+
+img{
+    width: 600px;
+    height: auto;
+    padding-top: 30px;
+    text-align: center;
+}
+.container{
+    padding-left: 250px;
+    padding-right: 250px;
+    justify-content: center;
+    text-align: justify;
+}
+li{
+    padding-top: 40px;
+    font-weight: bold ;
+}
+#about-author{
+
+}
+#author{
+    display: grid;
+    grid-template-columns: 200px 500px;
+    padding-left: 300px;
+    text-align: justify;
+}
+.author-image{
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+footer{
+    font-style: italic;
+    padding-left: 600px;
+    padding-top: 50px;
+}

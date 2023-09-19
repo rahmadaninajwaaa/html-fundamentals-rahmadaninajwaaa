@@ -1,0 +1,41 @@
+
+h1,h2,h3{
+    text-align: center;
+}
+h1{
+    color: rgb(1, 115, 33);
+    font-family: sans-serif;
+}
+h2{
+    color: rgb(48, 160, 53);
+}
+h3{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 30px;
+    color: rgb(129, 129, 18);
+}
+body{
+    background-color: rgb(194, 240, 240);
+}
+img{
+    width: 500px;
+    height: auto;
+    padding-left: 60px;
+}
+#container{
+    font-family: sans-serif;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 50px;
+}
+
+li{
+    text-decoration: underline;
+}
+
+footer{
+    padding-left: 300px;
+    padding-right: 300px;
+    background-color: aliceblue;
+}
